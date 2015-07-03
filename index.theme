@@ -1,0 +1,15 @@
+
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Olive Grove
+Comment=Olive Grove theme
+Encoding=UTF-8
+
+Name[da_DK]=Olive Grove
+
+[X-GNOME-Metatheme]
+GtkTheme=Olive Grove
+MetacityTheme=Olive Grove
+IconTheme=ubuntu-mono-light
+CursorTheme=Chameleon-Pearl-Regular
+ButtonLayout=:minimize,maximize,close

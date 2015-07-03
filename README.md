@@ -1,4 +1,5 @@
-# Olive-Grove
-GTK 2.x Theme
+# Description
+A Simple GTK 2.x Theme
 
-On
+# Credits to
+(http://gnome-look.org/usermanager/search.php?username=Bear73)[Bear73]
